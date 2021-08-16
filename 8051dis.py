@@ -1,3 +1,6 @@
+# Takes a raw ascii hex file and disassambles it into 8051 opcodes.
+
+
 import sys
 import string
 import opcodes
